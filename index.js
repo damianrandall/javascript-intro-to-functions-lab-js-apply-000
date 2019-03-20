@@ -19,9 +19,11 @@ function whisper(string) {
     
     function sayHiToGrandma(string) {
     var uppercase = 'HELLO'
-    uppercase.toUpperCase() === uppercase
+    uppercase.toUpperCase() === uppercase //true
     var lowercase = 'hello' 
-    lowercase.toLowerCase() === lowercase 
-    var mixedCase = 'Hi there!' === mixedCase
+    lowercase.toLowerCase() === lowercase //true
+    var mixedCase = 'Hi there!'
+    mixedCase.toLowerCase() === mixedCase //false
+    mixedCase.toUpperCase() === mixedCase //false
     console.log().toLowerCase 
     }
