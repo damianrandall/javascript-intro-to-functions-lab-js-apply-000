@@ -18,5 +18,10 @@ function whisper(string) {
     console.log.restore()*/
     
     function sayHiToGrandma(string) {
-    return string console.log().toLowerCase 
+    var uppercase = 'HELLO'
+    uppercase.toUpperCase() === uppercase
+    var lowercase = 'hello' 
+    lowercase.toLowerCase() === lowercase 
+    var mixedCase = 'Hi there!' === mixedCase
+    console.log().toLowerCase 
     }
