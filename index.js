@@ -20,7 +20,6 @@ function whisper(string) {
     function sayHiToGrandma(string) {
     var uppercase = 'HELLO'
     uppercase.toUpperCase() === uppercase //true
-    console.log()
     var lowercase = 'hello' 
     lowercase.toLowerCase() === lowercase //true
     var mixedCase = 'Hi there!'
