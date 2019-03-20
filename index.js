@@ -18,9 +18,6 @@ function whisper(string) {
     console.log.restore()*/
 
 function sayHiToGrandma(string) {
-  return string console.log (spy);
-    {
-  
-  console.log.string(spy);
-  string "I can't hear you!"
+  return string console.log();
 }
+string "I can't hear you!"
