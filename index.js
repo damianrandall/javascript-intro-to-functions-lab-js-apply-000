@@ -15,9 +15,12 @@ function whisper(string) {
     logWhisper('HELLO')
 
     expect(spy).toHaveBeenCalledWith('hello')
-
     console.log.restore()*/
-    
-function sayHiToGrandma(console.log) {
-  console.log.restore() string "I can't hear you!"
+
+function sayHiToGrandma(string) {
+  return string console.log (spy);
+    {
+  
+  console.log.string(spy);
+  string "I can't hear you!"
 }
