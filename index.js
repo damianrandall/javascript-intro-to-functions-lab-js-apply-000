@@ -17,6 +17,6 @@ function whisper(string) {
     expect(spy).toHaveBeenCalledWith('hello')
     console.log.restore()*/
     
-    ````function sayHiToGrandma(string) {
+    function sayHiToGrandma(string) {
     return string console.log().toLowerCase 
-    }````
+    }
